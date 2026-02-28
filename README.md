@@ -4,7 +4,7 @@
 
 A behavioural research instrument designed for the EA FC 26. Tracks the psychological and contextual data that raw win/loss records deliberately obscure, building a personal dataset detailed enough to separate three confounded variables: player fatigue, player psychology, and potential system behaviour.
 
-**Status:** Active | **Phase:** Data collection | **Live tracker:** [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1usN6zVsdgHveMcKy7Ekx5Rhs2AXRDzJd2YRi7jTo-Ms/edit?gid=674564818#gid=674564818)
+**Status:** Active | **Phase:** Data collection | **Live tracker:** [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1PM-c_FfMoRnIAVqA6fyEUvRIv8VyGwZY/edit?usp=sharing&ouid=104967845602167019233&rtpof=true&sd=true)
 ---
 
 ## Why This Exists
@@ -133,7 +133,7 @@ The Google Sheets tracker has three tabs:
 | **Match Log** | Row-by-row game logging with pre-match, in-game, and post-match fields |
 | **Dashboard** | Auto-updating summary statistics, zone analysis, sitting breakdown, and tilt indicators |
 
-**[Access the live tracker here](https://docs.google.com/spreadsheets/d/1usN6zVsdgHveMcKy7Ekx5Rhs2AXRDzJd2YRi7jTo-Ms/edit?gid=674564818#gid=674564818)**
+**[Access the live tracker here]([https://docs.google.com/spreadsheets/d/1usN6zVsdgHveMcKy7Ekx5Rhs2AXRDzJd2YRi7jTo-Ms/edit?gid=674564818#gid=674564818](https://docs.google.com/spreadsheets/d/1PM-c_FfMoRnIAVqA6fyEUvRIv8VyGwZY/edit?usp=sharing&ouid=104967845602167019233&rtpof=true&sd=true))**
 
 Feel free to test and track your own progression
 
@@ -147,4 +147,4 @@ The environment is designed to resist your self-audit. This tracker is the count
 
 ---
 
-*Earlier versions can works as a FIFA stats tracker. But the aim is to serve as a behavioural research instrument in a competitive environment, specifically engineered to make self-analysis difficult, thereby assisting decision-making and reducing influence based on emotional states.*
+*Earlier versions can work as a FIFA stats tracker. But the aim is to serve as a behavioural research instrument in a competitive environment, specifically engineered to make self-analysis difficult, thereby assisting decision-making and reducing influence based on emotional states.*
